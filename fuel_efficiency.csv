@@ -1,0 +1,11 @@
+Trip_ID,Avg_Speed,Distance,Sudden_Accelerations,Hard_Brakes,Road_Type,Engine_Load,Tire_Pressure,Outside_Temp,Fuel_Efficiency
+1,45,15,2,1,Highway,65,32,75,28.5
+2,25,5,8,6,City,85,28,68,18.2
+3,60,30,1,0,Highway,55,34,82,34.0
+4,35,10,5,4,Rural,75,30,72,22.1
+5,50,20,3,2,Highway,70,33,78,27.8
+6,20,3,10,8,City,90,27,65,15.4
+7,55,25,0,1,Highway,60,35,80,32.5
+8,40,12,4,3,Rural,80,29,70,24.3
+9,30,8,7,5,City,88,28,67,17.9
+10,65,35,1,0,Highway,50,36,85,36.7
